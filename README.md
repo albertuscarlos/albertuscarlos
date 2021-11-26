@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @albertuscarlos
-- 👀 I’m interested in Movies, Games, Music and many more
-- 🌱 I’m currently learning Android Developments
+Hi my name is Albertus Carlos. I make this repo for my Android Development Project
 
 <!---
 albertuscarlos/albertuscarlos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
